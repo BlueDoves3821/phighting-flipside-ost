@@ -1,0 +1,25 @@
+name: phighting-flipside-ost
+displayName: "PHIGHTING! THE [#EBE161[]]FLIP[[]][#C46BE3[]]SIDE [[]]OST"
+description:
+'''
+Replaces the vanilla OST with [#EBE161[]]flip[[]][#C46BE3[]]side[[]] songs from PHIGHTING!
+Tracklist:
+game1 & menu: SEE YOU ON - Key After Key
+game2: TAKE YOUR TIME - Key After Key
+game3 & launch: TTYL - CRABLOOSHI
+game4: STRIKE OF LUCK - LeonJD
+game5: FEEL THE BURN - LeonJD
+game6: GROOVAHOLIC - yeletez
+game7: BREAKNECK BRODCAST - vallasite.ogg
+game8: BREAK THE DISCO - yeletez
+game9: PUMP THE LUCK - LeonJD
+boss1, boss2 & editor: THE FLIPSIDE - Key After Key
+'''
+minGameVersion: 160
+author: '''
+Mod by BlueDoves3821
+Music by boggio
+'''
+hidden: true
+hideBrowser: true
+version: 1
