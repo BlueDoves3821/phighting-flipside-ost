@@ -24,3 +24,5 @@ game8: [BREAK THE DISCO - yeletez](https://phighting.wiki/BREAK_THE_DISCO)
 game9: [PUMP THE LUCK - LeonJD](https://phighting.wiki/PUMP_THE_LUCK)
 
 boss1, boss2 & editor: [THE FLIPSIDE - Key After Key](https://phighting.wiki/THE_FLIPSIDE)
+
+fine: [DEVIL'S PANDEMONIUM - Key After Key](https://phighting.wiki/DEVIL%27S_PANDEMONIUM)
